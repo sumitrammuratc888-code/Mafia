@@ -107,4 +107,3 @@ npm start
 
 ## License
 
-MIT
